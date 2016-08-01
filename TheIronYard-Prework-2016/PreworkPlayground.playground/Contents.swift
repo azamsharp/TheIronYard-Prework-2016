@@ -26,4 +26,7 @@ import UIKit
 // ["John","Alex","Mary"] 
 
 
+// iterate through the "names" array and print all the contents of the array.
+
+
 
